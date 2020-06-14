@@ -1,0 +1,13 @@
+D:\github\DailyCodingProblem\DailyCodingProblemProblem#329[Hard]\bin\Debug\netcoreapp3.1\DailyCodingProblemProblem#329[Hard].exe
+D:\github\DailyCodingProblem\DailyCodingProblemProblem#329[Hard]\bin\Debug\netcoreapp3.1\DailyCodingProblemProblem#329[Hard].deps.json
+D:\github\DailyCodingProblem\DailyCodingProblemProblem#329[Hard]\bin\Debug\netcoreapp3.1\DailyCodingProblemProblem#329[Hard].runtimeconfig.json
+D:\github\DailyCodingProblem\DailyCodingProblemProblem#329[Hard]\bin\Debug\netcoreapp3.1\DailyCodingProblemProblem#329[Hard].runtimeconfig.dev.json
+D:\github\DailyCodingProblem\DailyCodingProblemProblem#329[Hard]\bin\Debug\netcoreapp3.1\DailyCodingProblemProblem#329[Hard].dll
+D:\github\DailyCodingProblem\DailyCodingProblemProblem#329[Hard]\bin\Debug\netcoreapp3.1\DailyCodingProblemProblem#329[Hard].pdb
+D:\github\DailyCodingProblem\DailyCodingProblemProblem#329[Hard]\obj\Debug\netcoreapp3.1\DailyCodingProblemProblem#329[Hard].csprojAssemblyReference.cache
+D:\github\DailyCodingProblem\DailyCodingProblemProblem#329[Hard]\obj\Debug\netcoreapp3.1\DailyCodingProblemProblem#329[Hard].csproj.CoreCompileInputs.cache
+D:\github\DailyCodingProblem\DailyCodingProblemProblem#329[Hard]\obj\Debug\netcoreapp3.1\DailyCodingProblemProblem#329[Hard].AssemblyInfoInputs.cache
+D:\github\DailyCodingProblem\DailyCodingProblemProblem#329[Hard]\obj\Debug\netcoreapp3.1\DailyCodingProblemProblem#329[Hard].AssemblyInfo.cs
+D:\github\DailyCodingProblem\DailyCodingProblemProblem#329[Hard]\obj\Debug\netcoreapp3.1\DailyCodingProblemProblem#329[Hard].dll
+D:\github\DailyCodingProblem\DailyCodingProblemProblem#329[Hard]\obj\Debug\netcoreapp3.1\DailyCodingProblemProblem#329[Hard].pdb
+D:\github\DailyCodingProblem\DailyCodingProblemProblem#329[Hard]\obj\Debug\netcoreapp3.1\DailyCodingProblemProblem#329[Hard].genruntimeconfig.cache
